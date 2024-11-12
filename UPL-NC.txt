@@ -1,4 +1,4 @@
-From: https://github.com/LekasNet/LICENSES.git/blob/main/UPL-NC.txt
+From: https://github.com/LekasNet/LICENSES/blob/main/UPL-NC.txt
 
 Copyright (C) [Name] "[username]" [Surname] [Date] *
 

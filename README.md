@@ -4,11 +4,11 @@ UPL and UPBL is developed by [Andrey Delimarsky](https://github.com/LekasNet) fo
 
 ## Files
 
-### [UPL-NC](https://github.com/LekasNet/LICENSES.git/blob/main/UPL-NC.txt)
+### [UPL-NC](https://github.com/LekasNet/LICENSES/blob/main/UPL-NC.txt)
 
     UPL-NC stands for User Public License for Non Commercial use
 
-### [UPBL](https://github.com/LekasNet/LICENSES.git/blob/main/UPBL.txt)
+### [UPBL](https://github.com/LekasNet/LICENSES/blob/main/UPBL.txt)
 
     UPBL stands for User Permission-Based License
 
